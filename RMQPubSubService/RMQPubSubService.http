@@ -1,0 +1,6 @@
+@RMQPubSubService_HostAddress = http://localhost:5160
+
+GET {{RMQPubSubService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

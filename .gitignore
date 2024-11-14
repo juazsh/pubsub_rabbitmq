@@ -1,0 +1,5 @@
+node_modules
+.env
+RMQPubSubService/bin
+RMQPubSubService/obj
+.idea
